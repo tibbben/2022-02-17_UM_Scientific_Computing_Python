@@ -266,6 +266,10 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<p><h3>Register Now:</h3> <a href="https://events.miami.edu/event/software-carpentry-python-feb-2022#" target="_blank">https://events.miami.edu/event/software-carpentry-python-feb-2022#</a></p>
+
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
